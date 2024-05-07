@@ -21,3 +21,4 @@ $ ./hlsdump http://path/to/stream.m3u8 saved_dir
 $ ls saved_dir
 index.m3u8 1.ts 2.ts 3.ts
 ```
+
